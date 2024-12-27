@@ -1,3 +1,9 @@
+# Added comments for the Github repository: 
+#This is the first script, the purpose of which is arranging the data. 
+#Written by Noga on December 27 2024
+
+
+
 # R course for beginners
 # Week 8
 # assignment by Noga Smadar
