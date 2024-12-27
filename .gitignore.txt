@@ -1,2 +1,2 @@
 *.csv
-collected_data/
+data/
